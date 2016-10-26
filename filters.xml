@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<filters>
+<!--
+	<filter>
+		<url-pattern>/</url-pattern>
+		<phase>PRE_REQUEST</phase>
+		<execution-api-path>/</execution-api-path>
+		<execution-script-path>/validacao/pre_request.js</execution-script-path>
+		<sequence>1</sequence>
+	</filter>
+-->
+</filters>
